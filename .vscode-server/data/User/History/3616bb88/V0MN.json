@@ -1,0 +1,7 @@
+{
+    "workbench.startupEditor": "none",
+    "remote.SSH.remotePlatform": {
+        "ec2-35-175-140-120.compute-1.amazonaws.com": "linux",
+        "ec2-174-129-158-244.compute-1.amazonaws.com": "linux"
+    }
+}
